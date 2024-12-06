@@ -63,10 +63,48 @@ const deleteActivity = async (req, res) => {
     }
 };
 
+
+// Etkinlikleri listeleme
+const listActivities = async (req, res) => {
+    try {
+        const { campgroundId } = req.query;
+        const filter = campgroundId ? { associatedCampground: campgroundId } : {};
+
+        // Filtreye göre etkinlikleri getir ve associatedCampground detaylarını dahil et
+        const activities = await Activity.find(filter).populate('associatedCampground', 'name location description');
+
+        if (!activities.length) {
+            return res.status(404).json({ message: 'Etkinlik bulunamadı.' });
+        }
+
+        res.status(200).json(activities);
+    } catch (error) {
+        res.status(500).json({ message: 'Bir hata oluştu.', error: error.message });
+    }
+};
+
+// Belirli bir aktivitenin detaylarını getir
+const getActivityDetails = async (req, res) => {
+    const { id } = req.params; // Aktivite ID'sini al
+    try {
+        const activity = await Activity.findById(id); // Aktiviteyi bul
+        if (!activity) {
+            return res.status(404).json({ message: 'Aktivite bulunamadı.' });
+        }
+        res.status(200).json(activity);
+    } catch (error) {
+        res.status(500).json({ message: 'Bir hata oluştu', error: error.message });
+    }
+};
+
+
 module.exports = {
     getAllActivities,
     getActivityById,
     createActivity,
     updateActivity,
     deleteActivity,
+    listActivities,
+    listActivities,
+    getActivityDetails,
 };

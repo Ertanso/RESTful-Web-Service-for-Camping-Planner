@@ -12,4 +12,15 @@ router.post('/', protect, createActivity);
 router.put('/:id', protect, updateActivity);
 router.delete('/:id', protect, deleteActivity);
 
+const { listActivities } = require('../controllers/activityController');
+
+// Aktiviteleri listeleme
+router.get('/', listActivities);
+
+const { getActivityDetails } = require('../controllers/activityController');
+
+// Belirli bir aktivitenin detaylarını getir
+router.get('/:id', getActivityDetails);
+
+
 module.exports = router;

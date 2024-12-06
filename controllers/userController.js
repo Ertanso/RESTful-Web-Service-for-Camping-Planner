@@ -69,4 +69,19 @@ const getAllUsers = async (req, res) => {
     }
 };
 
-module.exports = { registerUser, loginUser, getAllUsers };
+// Kullanıcı profilini getir
+const getUserProfile = async (req, res) => {
+    const userId = req.params.userId; // URL'deki userId'yi al
+    try {
+        const user = await User.findById(userId).select('-password'); // Şifreyi hariç tut
+        if (!user) {
+            return res.status(404).json({ message: 'Kullanıcı bulunamadı.' });
+        }
+        res.status(200).json(user); // Kullanıcı bilgilerini döndür
+    } catch (error) {
+        res.status(500).json({ message: 'Bir hata oluştu.', error: error.message });
+    }
+};
+
+
+module.exports = { registerUser, loginUser, getAllUsers, getUserProfile };

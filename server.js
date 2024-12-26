@@ -4,7 +4,7 @@ const connectDB = require('./config/db');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const userRoutes = require('./routes/userRoutes'); // Kullanıcı route'unu içe aktarın
-
+const routeRoutes = require('./routes/routeRoutes'); //route1 için
 // Load environment variables
 require('dotenv').config();
 const mongoose = require('mongoose');
@@ -40,7 +40,7 @@ app.use('/api/reviews', reviewRoutes);
 app.use('/api/favorites', favoriteRoutes);
 app.use('/api/route-recommendations', routeRoutes);
 app.use('/api/camping-equipment', equipmentRoutes);
-
+app.use('/api', routeRoutes);
 
 app.use('/api/activities', activityRoutes);
 

@@ -4,7 +4,7 @@ const connectDB = require('./config/db');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const userRoutes = require('./routes/userRoutes'); // Kullanıcı route'unu içe aktarın
-const routeRoutes = require('./routes/routeRoutes'); //route1 için
+//const routeRoutes = require('./routes/routeRoutes'); //route1 için
 // Load environment variables
 require('dotenv').config();
 const mongoose = require('mongoose');

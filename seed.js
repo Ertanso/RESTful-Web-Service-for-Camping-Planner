@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const Campground = require('./models/campsiteModel');
 const Route = require('./models/routeModel');
 
-mongoose.connect('mongodb://localhost:27017/camping-planner', { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('mongodb://localhost:27017/user', { useNewUrlParser: true, useUnifiedTopology: true });
 
 const seedData = async () => {
     const campground = await Campground.create({

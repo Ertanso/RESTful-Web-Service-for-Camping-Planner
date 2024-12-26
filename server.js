@@ -6,8 +6,8 @@ const cors = require('cors');
 const userRoutes = require('./routes/userRoutes'); // Kullanıcı route'unu içe aktarın
 
 // Load environment variables
-dotenv.config();
-
+require('dotenv').config();
+const mongoose = require('mongoose');
 // Connect to the database
 connectDB();
 
@@ -57,7 +57,7 @@ app.use('/api/comments', commentRoutes);
 
 
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

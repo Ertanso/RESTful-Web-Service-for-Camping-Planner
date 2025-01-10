@@ -27,6 +27,7 @@ const getAccommodationDetails = async (req, res) => {
 module.exports = {
     listAccommodations,
     getAccommodationDetails,
+   
 };
 
 

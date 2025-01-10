@@ -4,6 +4,7 @@ const connectDB = require('./config/db');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const userRoutes = require('./routes/userRoutes'); // Kullanıcı route'unu içe aktarın
+
 //const routeRoutes = require('./routes/routeRoutes'); //route1 için
 // Load environment variables
 require('dotenv').config();
@@ -17,8 +18,9 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 app.use(express.json()); // JSON veri gönderimlerini işler
-// Import routes
 
+// Import routes
+const campingHistory = require('./routes/campingHistory');
 const campsiteRoutes = require('./routes/campsiteRoutes');
 const gearRoutes = require('./routes/gearRoutes');
 const activityRoutes = require('./routes/activityRoutes');
@@ -41,7 +43,7 @@ app.use('/api/favorites', favoriteRoutes);
 app.use('/api/route-recommendations', routeRoutes);
 app.use('/api/camping-equipment', equipmentRoutes);
 app.use('/api', routeRoutes);
-
+app.use('/api/camping-history', campingHistory);
 app.use('/api/activities', activityRoutes);
 
 const accommodationRoutes = require('./routes/accommodationRoutes');

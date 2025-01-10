@@ -33,10 +33,11 @@ const updateProfile = async (req, res) => {
     }
 };
 
-const CampingHistory = require('../models/campingHistoryModel');
+const CampingHistory = require('../models/campingHistory');
 
 // Kullanıcının kamp geçmişini listele
-const listCampingHistory = async (req, res) => {
+
+/*const listCampingHistory = async (req, res) => {
     const userId = req.user.id; // Kullanıcı kimliği (protect middleware'den gelir)
 
     try {
@@ -46,10 +47,9 @@ const listCampingHistory = async (req, res) => {
         res.status(500).json({ message: 'Kamp geçmişi alınırken bir hata oluştu', error: error.message });
     }
 };
-
 module.exports = {
-    listCampingHistory,
-};
+   listCampingHistory,
+}; */
 
 
 

@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const { listCampingHistory } = require('../controllers/campingHistory');
+const { listCampingHistory } = require('../controllers/campingHistoryController');
 const protect = require('../middleware/authMiddleware'); // Kullanıcı kimliğini doğrulayan middleware
 
 // Kullanıcının kamp geçmişini listele

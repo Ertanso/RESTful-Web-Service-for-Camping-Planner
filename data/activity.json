@@ -3,99 +3,207 @@
       "name": "Hiking",
       "description": "A scenic mountain trail for beginners and intermediate hikers.",
       "location": "Bodrum, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded23", 
+      "associatedCampground": "67826a38b26e2c06e9b35025", 
       "createdAt": "2025-01-10T10:00:00Z"
     },
     {
       "name": "Kayaking",
       "description": "Enjoy kayaking on the clear waters of the Mediterranean.",
       "location": "Fethiye, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded24",
+      "associatedCampground": "67826a38b26e2c06e9b35026",
       "createdAt": "2025-01-09T09:30:00Z"
     },
     {
       "name": "Mountain Biking",
       "description": "Ride through challenging mountain trails with breathtaking views.",
       "location": "Çeşme, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded25",
+      "associatedCampground": "67826a38b26e2c06e9b3502c",
       "createdAt": "2025-01-08T09:00:00Z"
     },
     {
       "name": "Fishing",
       "description": "Relax and fish in the tranquil lake surrounded by nature.",
       "location": "Antalya, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded26",
+      "associatedCampground": "67826a38b26e2c06e9b35028",
       "createdAt": "2025-01-07T08:30:00Z"
     },
     {
       "name": "Horseback Riding",
       "description": "Explore the stunning landscapes on horseback.",
       "location": "Marmaris, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded27",
+      "associatedCampground": "67826a38b26e2c06e9b3502a",
       "createdAt": "2025-01-06T08:00:00Z"
     },
     {
       "name": "Rock Climbing",
       "description": "Challenge yourself with rock climbing on various difficulty levels.",
       "location": "Kapadokya, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded28",
+      "associatedCampground": "67826a38b26e2c06e9b35029",
       "createdAt": "2025-01-05T07:30:00Z"
     },
     {
       "name": "Wildlife Safari",
       "description": "Observe the diverse wildlife in its natural habitat.",
       "location": "Süleymaniye, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded29",
+      "associatedCampground": "67826a38b26e2c06e9b3502d",
       "createdAt": "2025-01-04T07:00:00Z"
     },
     {
       "name": "Snorkeling",
       "description": "Discover the underwater world with a snorkeling adventure.",
       "location": "Bursa, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded2a",
+      "associatedCampground": "67826a38b26e2c06e9b3502e",
       "createdAt": "2025-01-03T06:30:00Z"
     },
     {
       "name": "Yoga Retreat",
       "description": "A peaceful retreat for yoga and meditation in nature.",
       "location": "Trabzon, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded2b",
+      "associatedCampground": "67826a38b26e2c06e9b3502b",
       "createdAt": "2025-01-02T06:00:00Z"
     },
     {
       "name": "Zip Lining",
       "description": "Fly through the treetops on an exciting zip line course.",
       "location": "Istanbul, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded2c",
+      "associatedCampground": "67826a38b26e2c06e9b3502f",
       "createdAt": "2025-01-01T05:30:00Z"
     },
     {
       "name": "Canoeing",
       "description": "Paddle along the calm river and enjoy the surrounding nature.",
       "location": "Çeşme, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded2d",
+      "associatedCampground": "67826a38b26e2c06e9b35032",
       "createdAt": "2024-12-31T05:00:00Z"
     },
     {
       "name": "Stargazing",
       "description": "Spend the night under the stars and watch the sky light up.",
       "location": "Izmir, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded2e",
+      "associatedCampground": "67826a38b26e2c06e9b35030",
       "createdAt": "2024-12-30T04:30:00Z"
     },
     {
       "name": "Scuba Diving",
       "description": "Explore the deep blue sea and discover vibrant coral reefs.",
       "location": "Antalya, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded2f",
+      "associatedCampground": "67826a38b26e2c06e9b35028",
       "createdAt": "2024-12-29T04:00:00Z"
     },
     {
       "name": "Trail Running",
       "description": "Test your endurance with trail running through scenic paths.",
-      "location": "Kuşadası, Turkey",
-      "associatedCampground": "607bcd08f4f1a2b0f4cded30",
+      "location": "Süleymaniye, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b3502d",
       "createdAt": "2024-12-28T03:30:00Z"
-    }
+    },
+
+    {
+      "name": "Beach Volleyball",
+      "description": "Enjoy a fun game of volleyball by the sea.",
+      "location": "Bodrum, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b35025",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Snorkeling",
+      "description": "Discover the vibrant marine life near the shore.",
+      "location": "Bodrum, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b35025",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Mountain Climbing",
+      "description": "Challenge yourself with breathtaking climbs.",
+      "location": "Fethiye, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b35026",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Paragliding",
+      "description": "Soar over the stunning mountains and coastline.",
+      "location": "Fethiye, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b35026",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Nature Photography",
+      "description": "Capture the beauty of the forest and its wildlife.",
+      "location": "Istanbul, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b35027",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Bird Watching",
+      "description": "Observe various bird species in their natural habitat.",
+      "location": "Istanbul, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b35027",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Fishing",
+      "description": "Catch fish in the calm and scenic lake waters.",
+      "location": "Antalya, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b35028",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Kayaking",
+      "description": "Paddle through the serene lake surroundings.",
+      "location": "Antalya, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b35028",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Camel Rides",
+      "description": "Experience the desert on the back of a camel.",
+      "location": "Kapadokya, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b35029",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Stargazing",
+      "description": "Marvel at the clear night skies of the desert.",
+      "location": "Kapadokya, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b35029",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Riverside Picnic",
+      "description": "Enjoy a relaxing picnic by the river.",
+      "location": "Marmaris, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b3502a",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Kayaking",
+      "description": "Explore the river with a thrilling kayaking experience.",
+      "location": "Marmaris, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b3502a",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Highland Trekking",
+      "description": "Take a refreshing trek in the cooler highlands.",
+      "location": "Trabzon, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b3502b",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Cultural Tours",
+      "description": "Learn about the local culture and traditions.",
+      "location": "Trabzon, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b3502b",
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Beach Bonfire",
+      "description": "End your day with a cozy bonfire by the beach.",
+      "location": "Çeşme, Turkey",
+      "associatedCampground": "67826a38b26e2c06e9b3502c",
+      "createdAt": "2025-01-11T15:00:00Z"
+  }
+
+
   ]
   

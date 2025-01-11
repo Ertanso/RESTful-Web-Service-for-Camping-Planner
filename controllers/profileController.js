@@ -33,7 +33,7 @@ const updateProfile = async (req, res) => {
     }
 };
 
-const CampingHistory = require('../models/campingHistory');
+// const CampingHistory = require('../models/campingHistory');
 
 // Kullanıcının kamp geçmişini listele
 
@@ -56,5 +56,5 @@ module.exports = {
 module.exports = {
     getProfile,
     updateProfile,
-    listCampingHistory,
+    // listCampingHistory,
 };

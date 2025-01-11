@@ -5,6 +5,7 @@ const accommodationSchema = new mongoose.Schema({
     location: { type: String, required: true },
     description: { type: String, required: true },
     price: { type: Number, required: true }, // Gecelik fiyat
+    associatedCampground: { type: mongoose.Schema.Types.ObjectId, ref: 'Campsite' },
     createdAt: { type: Date, default: Date.now },
 });
 

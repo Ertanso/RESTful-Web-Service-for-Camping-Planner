@@ -1,108 +1,139 @@
 [
-    {
+  {
       "name": "Seaside Resort",
       "location": "Bodrum, Turkey",
       "description": "A luxury resort with stunning sea views and private beaches.",
-      "price": 250,
+      "price": 375,
+      "associatedCampground": "67826a38b26e2c06e9b35025",
       "createdAt": "2025-01-10T10:00:00Z"
-    },
-    {
-      "name": "Mountain Lodge",
-      "location": "Kapadokya, Turkey",
-      "description": "Cozy lodge in the mountains with a fireplace and panoramic views.",
-      "price": 150,
-      "createdAt": "2025-01-09T09:00:00Z"
-    },
-    {
-      "name": "City Center Apartments",
-      "location": "Istanbul, Turkey",
-      "description": "Modern apartments in the heart of Istanbul with city views.",
-      "price": 180,
-      "createdAt": "2025-01-08T08:30:00Z"
-    },
-    {
-      "name": "Forest Retreat",
-      "location": "Antalya, Turkey",
-      "description": "Peaceful retreat surrounded by forest with hiking trails.",
-      "price": 120,
-      "createdAt": "2025-01-07T08:00:00Z"
-    },
-    {
+  },
+  {
       "name": "Beachfront Villa",
       "location": "Fethiye, Turkey",
       "description": "Private villa with a large pool and direct beach access.",
-      "price": 300,
+      "price": 450,
+      "associatedCampground": "67826a38b26e2c06e9b35026",
       "createdAt": "2025-01-06T07:30:00Z"
-    },
-    {
-      "name": "Luxury Penthouse",
-      "location": "Izmir, Turkey",
-      "description": "An exclusive penthouse with a rooftop terrace and modern amenities.",
-      "price": 400,
-      "createdAt": "2025-01-05T07:00:00Z"
-    },
-    {
-      "name": "Rustic Farmhouse",
-      "location": "Süleymaniye, Turkey",
-      "description": "A charming farmhouse with a rustic atmosphere and fresh produce.",
-      "price": 80,
-      "createdAt": "2025-01-04T06:30:00Z"
-    },
-    {
-      "name": "Cottage by the Lake",
-      "location": "Bursa, Turkey",
-      "description": "Charming cottage with a private dock and lakefront views.",
-      "price": 200,
-      "createdAt": "2025-01-03T06:00:00Z"
-    },
-    {
-      "name": "Urban Loft",
-      "location": "Ankara, Turkey",
-      "description": "Stylish urban loft in the heart of the city with industrial design.",
-      "price": 220,
-      "createdAt": "2025-01-02T05:30:00Z"
-    },
-    {
-      "name": "Historic Mansion",
-      "location": "Edirne, Turkey",
-      "description": "A beautifully restored mansion with antique furnishings.",
-      "price": 350,
-      "createdAt": "2025-01-01T05:00:00Z"
-    },
-    {
+  },
+  {
+      "name": "City Center Apartments",
+      "location": "Istanbul, Turkey",
+      "description": "Modern apartments in the heart of Istanbul with city views.",
+      "price": 270,
+      "associatedCampground": "67826a38b26e2c06e9b35027",
+      "createdAt": "2025-01-08T08:30:00Z"
+  },
+  {
+      "name": "Forest Retreat",
+      "location": "Antalya, Turkey",
+      "description": "Peaceful retreat surrounded by forest with hiking trails.",
+      "price": 180,
+      "associatedCampground": "67826a38b26e2c06e9b35028",
+      "createdAt": "2025-01-07T08:00:00Z"
+  },
+  {
+      "name": "Mountain Lodge",
+      "location": "Kapadokya, Turkey",
+      "description": "Cozy lodge in the mountains with a fireplace and panoramic views.",
+      "price": 225,
+      "associatedCampground": "67826a38b26e2c06e9b35029",
+      "createdAt": "2025-01-09T09:00:00Z"
+  },
+  {
       "name": "Charming Guesthouse",
       "location": "Marmaris, Turkey",
       "description": "Cozy guesthouse offering a quiet stay with a homely atmosphere.",
-      "price": 90,
+      "price": 135,
+      "associatedCampground": "67826a38b26e2c06e9b3502a",
       "createdAt": "2024-12-31T04:30:00Z"
-    },
-    {
-      "name": "Skyline Hotel",
-      "location": "Antalya, Turkey",
-      "description": "A high-rise hotel with panoramic city views and a rooftop bar.",
-      "price": 220,
-      "createdAt": "2024-12-30T04:00:00Z"
-    },
-    {
+  },
+  {
       "name": "Countryside Bungalow",
       "location": "Trabzon, Turkey",
       "description": "Peaceful bungalow in the countryside with lush green surroundings.",
-      "price": 110,
+      "price": 165,
+      "associatedCampground": "67826a38b26e2c06e9b3502b",
       "createdAt": "2024-12-29T03:30:00Z"
-    },
-    {
-      "name": "Modern Studio",
-      "location": "Kuşadası, Turkey",
-      "description": "Small but modern studio apartment with great amenities for solo travelers.",
-      "price": 130,
-      "createdAt": "2024-12-28T03:00:00Z"
-    },
-    {
+  },
+  {
       "name": "Luxury Beach House",
       "location": "Çeşme, Turkey",
       "description": "Spacious beach house with ocean views and a private pool.",
-      "price": 500,
+      "price": 750,
+      "associatedCampground": "67826a38b26e2c06e9b3502c",
       "createdAt": "2024-12-27T02:30:00Z"
-    }
-  ]
-  
+  },
+  {
+      "name": "Rustic Farmhouse",
+      "location": "Süleymaniye, Turkey",
+      "description": "A charming farmhouse with a rustic atmosphere and fresh produce.",
+      "price": 120,
+      "associatedCampground": "67826a38b26e2c06e9b3502d",
+      "createdAt": "2025-01-04T06:30:00Z"
+  },
+  {
+      "name": "Cottage by the Lake",
+      "location": "Bursa, Turkey",
+      "description": "Charming cottage with a private dock and lakefront views.",
+      "price": 300,
+      "associatedCampground": "67826a38b26e2c06e9b3502e",
+      "createdAt": "2025-01-03T06:00:00Z"
+  },
+  {
+      "name": "Cozy Lakehouse",
+      "location": "Bursa, Turkey",
+      "description": "A beautiful lakehouse perfect for fishing and relaxation.",
+      "price": 320,
+      "associatedCampground": "67826a38b26e2c06e9b3502e",
+      "createdAt": "2025-01-11T15:30:00Z"
+  },
+  {
+      "name": "Eco-Friendly Cabin",
+      "location": "Kapadokya, Turkey",
+      "description": "A sustainable cabin in the mountains with breathtaking views.",
+      "price": 240,
+      "associatedCampground": "67826a38b26e2c06e9b35029",
+      "createdAt": "2025-01-11T14:00:00Z"
+  },
+  {
+      "name": "Sunset Paradise",
+      "location": "Fethiye, Turkey",
+      "description": "A beachside retreat offering stunning sunset views.",
+      "price": 460,
+      "associatedCampground": "67826a38b26e2c06e9b35026",
+      "createdAt": "2025-01-11T16:30:00Z"
+  },
+  {
+      "name": "Secluded Getaway",
+      "location": "Marmaris, Turkey",
+      "description": "A hidden gem surrounded by lush forest, ideal for nature lovers.",
+      "price": 150,
+      "associatedCampground": "67826a38b26e2c06e9b3502a",
+      "createdAt": "2025-01-11T17:00:00Z"
+  },
+  {
+      "name": "Alpine Retreat",
+      "location": "Trabzon, Turkey",
+      "description": "A highland escape with cooler temperatures and stunning views.",
+      "price": 175,
+      "associatedCampground": "67826a38b26e2c06e9b3502b",
+      "createdAt": "2025-01-11T17:30:00Z"
+  },
+  {
+      "name": "Ocean Breeze Villa",
+      "location": "Çeşme, Turkey",
+      "description": "A luxury villa offering fresh ocean breezes and beautiful beaches.",
+      "price": 780,
+      "associatedCampground": "67826a38b26e2c06e9b3502c",
+      "createdAt": "2025-01-11T18:00:00Z"
+  },
+  {
+      "name": "Mediterranean Haven",
+      "location": "Antalya, Turkey",
+      "description": "A peaceful haven in the heart of the Mediterranean region.",
+      "price": 190,
+      "associatedCampground": "67826a38b26e2c06e9b35028",
+      "createdAt": "2025-01-11T18:30:00Z"
+  }
+ 
+]

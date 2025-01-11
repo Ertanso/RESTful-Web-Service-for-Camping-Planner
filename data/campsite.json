@@ -96,6 +96,81 @@
       "description": "A beachside campsite with stunning sunsets and various water sports.",
       "createdAt": "2024-12-28T03:30:00Z",
       "updatedAt": "2024-12-28T03:30:00Z"
-    }
+    },
+
+    
+    {
+        "name": "Hidden Valley Camp",
+        "location": "Antalya, Turkey",
+        "description": "A secluded camping spot surrounded by lush greenery and waterfalls.",
+        "createdAt": "2025-01-11T10:00:00Z",
+        "updatedAt": "2025-01-11T10:00:00Z"
+    },
+    {
+        "name": "Sunset Beach Camp",
+        "location": "Çeşme, Turkey",
+        "description": "A perfect spot for sunset views and evening bonfires by the beach.",
+        "createdAt": "2025-01-11T10:30:00Z",
+        "updatedAt": "2025-01-11T10:30:00Z"
+    },
+    {
+        "name": "Black Sea Retreat",
+        "location": "Trabzon, Turkey",
+        "description": "A tranquil retreat with panoramic views of the Black Sea.",
+        "createdAt": "2025-01-11T11:00:00Z",
+        "updatedAt": "2025-01-11T11:00:00Z"
+    },
+    {
+        "name": "Golden Sand Camp",
+        "location": "Bodrum, Turkey",
+        "description": "A luxury campsite with golden sands and crystal-clear waters.",
+        "createdAt": "2025-01-11T11:30:00Z",
+        "updatedAt": "2025-01-11T11:30:00Z"
+    }, 
+    {
+        "name": "Lakeside Escape",
+        "location": "Istanbul, Turkey",
+        "description": "A peaceful lakeside camping area with walking trails and fishing spots.",
+        "createdAt": "2025-01-11T12:00:00Z",
+        "updatedAt": "2025-01-11T12:00:00Z"
+      },
+      {
+        "name": "Snowy Peaks Camp",
+        "location": "Erzurum, Turkey",
+        "description": "An ideal campsite for winter enthusiasts with snowshoeing trails.",
+        "createdAt": "2025-01-11T12:30:00Z",
+        "updatedAt": "2025-01-11T12:30:00Z"
+      },
+      {
+        "name": "Mediterranean Breeze Camp",
+        "location": "Fethiye, Turkey",
+        "description": "A serene campsite with views of the Mediterranean Sea.",
+        "createdAt": "2025-01-11T13:00:00Z",
+        "updatedAt": "2025-01-11T13:00:00Z"
+      },
+      {
+        "name": "Urban Nature Camp",
+        "location": "Istanbul, Turkey",
+        "description": "A unique camping experience combining city access with natural surroundings.",
+        "createdAt": "2025-01-11T13:30:00Z",
+        "updatedAt": "2025-01-11T13:30:00Z"
+      },
+      {
+        "name": "Rocky Coast Camp",
+        "location": "Izmir, Turkey",
+        "description": "A rugged coastal campsite for adventurers seeking solitude.",
+        "createdAt": "2025-01-11T14:00:00Z",
+        "updatedAt": "2025-01-11T14:00:00Z"
+      },
+      {
+        "name": "Green Hills Camping",
+        "location": "Bursa, Turkey",
+        "description": "A campsite nestled in the green hills with plenty of hiking opportunities.",
+        "createdAt": "2025-01-11T14:30:00Z",
+        "updatedAt": "2025-01-11T14:30:00Z"
+      }
+    
+    
+
   ]
   

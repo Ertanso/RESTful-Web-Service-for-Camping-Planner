@@ -15,7 +15,7 @@ router.delete('/:id', protect, deleteActivity);
 const { listActivities } = require('../controllers/activityController');
 
 // Aktiviteleri listeleme
-router.get('/', listActivities);
+router.get('/ ', listActivities);
 
 const { getActivityDetails } = require('../controllers/activityController');
 
@@ -23,4 +23,4 @@ const { getActivityDetails } = require('../controllers/activityController');
 router.get('/:id', getActivityDetails);
 
 
-module.exports = router;
+module.exports = router; 

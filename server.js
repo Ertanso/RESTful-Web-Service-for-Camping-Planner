@@ -20,7 +20,7 @@ app.use(bodyParser.json());
 app.use(express.json()); // JSON veri gönderimlerini işler
 
 // Import routes
-const campingHistoryRoutes = require('./routes/campingHistoryRoutes');
+// const campingHistoryRoutes = require('./routes/campingHistoryRoutes');
 const campsiteRoutes = require('./routes/campsiteRoutes');
 const gearRoutes = require('./routes/gearRoutes');
 const activityRoutes = require('./routes/activityRoutes');
@@ -43,7 +43,7 @@ app.use('/api/favorites', favoriteRoutes);
 app.use('/api/route-recommendations', routeRoutes);
 app.use('/api/camping-equipment', equipmentRoutes);
 app.use('/api', routeRoutes);
-app.use('/api/camping-history', campingHistoryRoutes);
+// app.use('/api/camping-history', campingHistoryRoutes);
 app.use('/api/activities', activityRoutes);
 
 const accommodationRoutes = require('./routes/accommodationRoutes');
@@ -57,7 +57,9 @@ app.use('/api/comments', commentRoutes);
 
 
 
-
+app.get('/',(req,res)=>{
+    res.json ({message:'hello welcome our campsite project'})
+})
 
 const PORT = process.env.PORT || 5000;
 

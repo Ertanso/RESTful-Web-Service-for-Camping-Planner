@@ -1,0 +1,41 @@
+[
+    {
+      "name": "Hiking",
+      "description": "A scenic mountain trail for beginners and intermediate hikers.",
+      "location": "Bodrum, Turkey",
+    
+      "createdAt": "2025-01-10T10:00:00Z"
+    },
+    
+  {
+      "name": "Kayaking",
+      "description": "Explore the river with a thrilling kayaking experience.",
+      "location": "Marmaris, Turkey",
+     
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Highland Trekking",
+      "description": "Take a refreshing trek in the cooler highlands.",
+      "location": "Trabzon, Turkey",
+    
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Cultural Tours",
+      "description": "Learn about the local culture and traditions.",
+      "location": "Trabzon, Turkey",
+     
+      "createdAt": "2025-01-11T15:00:00Z"
+  },
+  {
+      "name": "Beach Bonfire",
+      "description": "End your day with a cozy bonfire by the beach.",
+      "location": "Çeşme, Turkey",
+     
+      "createdAt": "2025-01-11T15:00:00Z"
+  }
+
+
+  ]
+  

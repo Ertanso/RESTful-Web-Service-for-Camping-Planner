@@ -1,0 +1,107 @@
+[
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a2",
+      "bio": "Outdoor enthusiast and avid hiker. Love exploring new campsites!",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded23", "607bcd08f4f1a2b0f4cded24"],
+      "pastTrips": ["60a7b1a0f9a2b0f4d8f1a5a2", "60a7b1a1f9a2b0f4d8f1a5a3"],
+      "createdAt": "2025-01-10T10:00:00Z",
+      "updatedAt": "2025-01-10T10:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a3",
+      "bio": "Camping is my therapy. I enjoy spending time in the great outdoors.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded25", "607bcd08f4f1a2b0f4cded26"],
+      "pastTrips": ["60a7b1a2f9a2b0f4d8f1a5a4", "60a7b1a3f9a2b0f4d8f1a5a5"],
+      "createdAt": "2025-01-09T09:30:00Z",
+      "updatedAt": "2025-01-09T09:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a4",
+      "bio": "Hiker, backpacker, and lover of nature. Exploring new trails every month.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded27", "607bcd08f4f1a2b0f4cded28"],
+      "pastTrips": ["60a7b1a4f9a2b0f4d8f1a5a6", "60a7b1a5f9a2b0f4d8f1a5a7"],
+      "createdAt": "2025-01-08T09:00:00Z",
+      "updatedAt": "2025-01-08T09:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a5",
+      "bio": "Adventure lover and amateur photographer. Always looking for my next adventure.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded29", "607bcd08f4f1a2b0f4cded2a"],
+      "pastTrips": ["60a7b1a6f9a2b0f4d8f1a5a8", "60a7b1a7f9a2b0f4d8f1a5a9"],
+      "createdAt": "2025-01-07T08:30:00Z",
+      "updatedAt": "2025-01-07T08:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a6",
+      "bio": "Enjoying every step of the journey, whether it's a short hike or a long camping trip.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded2b", "607bcd08f4f1a2b0f4cded2c"],
+      "pastTrips": ["60a7b1a8f9a2b0f4d8f1a5b0", "60a7b1a9f9a2b0f4d8f1a5b1"],
+      "createdAt": "2025-01-06T08:00:00Z",
+      "updatedAt": "2025-01-06T08:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a7",
+      "bio": "Outdoor adventure seeker, passionate about sustainability and conservation.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded2d", "607bcd08f4f1a2b0f4cded2e"],
+      "pastTrips": ["60a7b1aa9f9a2b0f4d8f1a5b2", "60a7b1ab9f9a2b0f4d8f1a5b3"],
+      "createdAt": "2025-01-05T07:30:00Z",
+      "updatedAt": "2025-01-05T07:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a8",
+      "bio": "An explorer at heart. I love hiking, mountain biking, and experiencing nature in all its forms.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded2f", "607bcd08f4f1a2b0f4cded30"],
+      "pastTrips": ["60a7b1ac9f9a2b0f4d8f1a5b4", "60a7b1ad9f9a2b0f4d8f1a5b5"],
+      "createdAt": "2025-01-04T07:00:00Z",
+      "updatedAt": "2025-01-04T07:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a9",
+      "bio": "Lover of all things outdoors. I like to keep a journal of my camping adventures.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded31", "607bcd08f4f1a2b0f4cded32"],
+      "pastTrips": ["60a7b1ae9f9a2b0f4d8f1a5b6", "60a7b1af9f9a2b0f4d8f1a5b7"],
+      "createdAt": "2025-01-03T06:30:00Z",
+      "updatedAt": "2025-01-03T06:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b0",
+      "bio": "Experienced camper and nature lover. I thrive in the wilderness.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded33", "607bcd08f4f1a2b0f4cded34"],
+      "pastTrips": ["60a7b1b09f9a2b0f4d8f1a5b8", "60a7b1b19f9a2b0f4d8f1a5b9"],
+      "createdAt": "2025-01-02T06:00:00Z",
+      "updatedAt": "2025-01-02T06:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b1",
+      "bio": "Passionate about hiking and exploring the world. Always looking for the next adventure.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded35", "607bcd08f4f1a2b0f4cded36"],
+      "pastTrips": ["60a7b1b29f9a2b0f4d8f1a5ba", "60a7b1b39f9a2b0f4d8f1a5bb"],
+      "createdAt": "2025-01-01T05:30:00Z",
+      "updatedAt": "2025-01-01T05:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b2",
+      "bio": "Lifelong nature lover. I enjoy long camping trips and meeting other outdoor enthusiasts.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded37", "607bcd08f4f1a2b0f4cded38"],
+      "pastTrips": ["60a7b1b49f9a2b0f4d8f1a5bc", "60a7b1b59f9a2b0f4d8f1a5bd"],
+      "createdAt": "2024-12-31T05:00:00Z",
+      "updatedAt": "2024-12-31T05:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b3",
+      "bio": "Explorer, camper, and mountaineer. I document my adventures and share them with fellow adventurers.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded39", "607bcd08f4f1a2b0f4cded3a"],
+      "pastTrips": ["60a7b1b69f9a2b0f4d8f1a5be", "60a7b1b79f9a2b0f4d8f1a5bf"],
+      "createdAt": "2024-12-30T04:30:00Z",
+      "updatedAt": "2024-12-30T04:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b4",
+      "bio": "Amateur outdoor photographer and weekend adventurer.",
+      "favoriteCampsites": ["607bcd08f4f1a2b0f4cded3b", "607bcd08f4f1a2b0f4cded3c"],
+      "pastTrips": ["60a7b1b89f9a2b0f4d8f1a5c0", "60a7b1b99f9a2b0f4d8f1a5c1"],
+      "createdAt": "2024-12-29T04:00:00Z",
+      "updatedAt": "2024-12-29T04:00:00Z"
+    }
+  ]
+  

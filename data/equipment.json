@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Camping Tent",
+      "category": "Tent",
+      "description": "A waterproof and durable camping tent that fits up to 4 people.",
+      "createdAt": "2025-01-10T10:00:00Z"
+    },
+    {
+      "name": "Sleeping Bag",
+      "category": "Sleeping Bag",
+      "description": "A warm sleeping bag for cold weather camping, suitable for temperatures as low as -5°C.",
+      "createdAt": "2025-01-09T09:30:00Z"
+    },
+    {
+      "name": "Hiking Backpack",
+      "category": "Backpack",
+      "description": "A 50L hiking backpack with multiple compartments for carrying camping essentials.",
+      "createdAt": "2025-01-08T09:00:00Z"
+    },
+    {
+      "name": "Camp Stove",
+      "category": "Cooking Equipment",
+      "description": "A portable gas stove for outdoor cooking with an adjustable flame.",
+      "createdAt": "2025-01-07T08:30:00Z"
+    },
+    {
+      "name": "Camping Lantern",
+      "category": "Lighting",
+      "description": "A rechargeable camping lantern with LED lights, perfect for illuminating tents and campsites.",
+      "createdAt": "2025-01-06T08:00:00Z"
+    },
+    {
+      "name": "Portable Cooler",
+      "category": "Cooler",
+      "description": "A 30L portable cooler that keeps food and drinks cold during your outdoor trips.",
+      "createdAt": "2025-01-05T07:30:00Z"
+    },
+    {
+      "name": "First Aid Kit",
+      "category": "Safety",
+      "description": "A comprehensive first aid kit containing all essentials for treating minor injuries.",
+      "createdAt": "2025-01-04T07:00:00Z"
+    },
+    {
+      "name": "Camping Chair",
+      "category": "Furniture",
+      "description": "A foldable camping chair with a cup holder and comfortable back support.",
+      "createdAt": "2025-01-03T06:30:00Z"
+    },
+    {
+      "name": "Water Filter",
+      "category": "Water Filtration",
+      "description": "A portable water filter for purifying water from streams and lakes during hikes.",
+      "createdAt": "2025-01-02T06:00:00Z"
+    },
+    {
+      "name": "Hiking Boots",
+      "category": "Footwear",
+      "description": "Durable and waterproof hiking boots designed for all-terrain walking.",
+      "createdAt": "2025-01-01T05:30:00Z"
+    },
+    {
+      "name": "Portable Hammock",
+      "category": "Furniture",
+      "description": "A lightweight and compact hammock for relaxing during camping trips.",
+      "createdAt": "2024-12-31T05:00:00Z"
+    },
+    {
+      "name": "Multitool",
+      "category": "Tool",
+      "description": "A versatile multitool with knife, scissors, screwdriver, and other useful features.",
+      "createdAt": "2024-12-30T04:30:00Z"
+    },
+    {
+      "name": "Sleeping Pad",
+      "category": "Sleeping Equipment",
+      "description": "An inflatable sleeping pad that provides comfort and insulation from the ground.",
+      "createdAt": "2024-12-29T04:00:00Z"
+    },
+    {
+      "name": "Trekking Poles",
+      "category": "Outdoor Gear",
+      "description": "Lightweight and adjustable trekking poles for added support during hikes.",
+      "createdAt": "2024-12-28T03:30:00Z"
+    },
+    {
+      "name": "Camping Table",
+      "category": "Furniture",
+      "description": "A foldable camping table that fits perfectly in small campsites for cooking or eating.",
+      "createdAt": "2024-12-27T03:00:00Z"
+    }
+  ]
+  

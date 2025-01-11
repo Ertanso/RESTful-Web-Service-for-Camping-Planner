@@ -1,0 +1,108 @@
+[
+    {
+      "name": "Seaside Resort",
+      "location": "Bodrum, Turkey",
+      "description": "A luxury resort with stunning sea views and private beaches.",
+      "price": 250,
+      "createdAt": "2025-01-10T10:00:00Z"
+    },
+    {
+      "name": "Mountain Lodge",
+      "location": "Kapadokya, Turkey",
+      "description": "Cozy lodge in the mountains with a fireplace and panoramic views.",
+      "price": 150,
+      "createdAt": "2025-01-09T09:00:00Z"
+    },
+    {
+      "name": "City Center Apartments",
+      "location": "Istanbul, Turkey",
+      "description": "Modern apartments in the heart of Istanbul with city views.",
+      "price": 180,
+      "createdAt": "2025-01-08T08:30:00Z"
+    },
+    {
+      "name": "Forest Retreat",
+      "location": "Antalya, Turkey",
+      "description": "Peaceful retreat surrounded by forest with hiking trails.",
+      "price": 120,
+      "createdAt": "2025-01-07T08:00:00Z"
+    },
+    {
+      "name": "Beachfront Villa",
+      "location": "Fethiye, Turkey",
+      "description": "Private villa with a large pool and direct beach access.",
+      "price": 300,
+      "createdAt": "2025-01-06T07:30:00Z"
+    },
+    {
+      "name": "Luxury Penthouse",
+      "location": "Izmir, Turkey",
+      "description": "An exclusive penthouse with a rooftop terrace and modern amenities.",
+      "price": 400,
+      "createdAt": "2025-01-05T07:00:00Z"
+    },
+    {
+      "name": "Rustic Farmhouse",
+      "location": "Süleymaniye, Turkey",
+      "description": "A charming farmhouse with a rustic atmosphere and fresh produce.",
+      "price": 80,
+      "createdAt": "2025-01-04T06:30:00Z"
+    },
+    {
+      "name": "Cottage by the Lake",
+      "location": "Bursa, Turkey",
+      "description": "Charming cottage with a private dock and lakefront views.",
+      "price": 200,
+      "createdAt": "2025-01-03T06:00:00Z"
+    },
+    {
+      "name": "Urban Loft",
+      "location": "Ankara, Turkey",
+      "description": "Stylish urban loft in the heart of the city with industrial design.",
+      "price": 220,
+      "createdAt": "2025-01-02T05:30:00Z"
+    },
+    {
+      "name": "Historic Mansion",
+      "location": "Edirne, Turkey",
+      "description": "A beautifully restored mansion with antique furnishings.",
+      "price": 350,
+      "createdAt": "2025-01-01T05:00:00Z"
+    },
+    {
+      "name": "Charming Guesthouse",
+      "location": "Marmaris, Turkey",
+      "description": "Cozy guesthouse offering a quiet stay with a homely atmosphere.",
+      "price": 90,
+      "createdAt": "2024-12-31T04:30:00Z"
+    },
+    {
+      "name": "Skyline Hotel",
+      "location": "Antalya, Turkey",
+      "description": "A high-rise hotel with panoramic city views and a rooftop bar.",
+      "price": 220,
+      "createdAt": "2024-12-30T04:00:00Z"
+    },
+    {
+      "name": "Countryside Bungalow",
+      "location": "Trabzon, Turkey",
+      "description": "Peaceful bungalow in the countryside with lush green surroundings.",
+      "price": 110,
+      "createdAt": "2024-12-29T03:30:00Z"
+    },
+    {
+      "name": "Modern Studio",
+      "location": "Kuşadası, Turkey",
+      "description": "Small but modern studio apartment with great amenities for solo travelers.",
+      "price": 130,
+      "createdAt": "2024-12-28T03:00:00Z"
+    },
+    {
+      "name": "Luxury Beach House",
+      "location": "Çeşme, Turkey",
+      "description": "Spacious beach house with ocean views and a private pool.",
+      "price": 500,
+      "createdAt": "2024-12-27T02:30:00Z"
+    }
+  ]
+  

@@ -1,0 +1,101 @@
+[
+    {
+      "name": "Seaside Campground",
+      "location": "Bodrum, Turkey",
+      "description": "A beautiful campground located by the sea, ideal for beach lovers.",
+      "createdAt": "2025-01-10T10:00:00Z",
+      "updatedAt": "2025-01-10T10:00:00Z"
+    },
+    {
+      "name": "Mountain View Campsite",
+      "location": "Fethiye, Turkey",
+      "description": "A peaceful campsite with stunning views of the surrounding mountains.",
+      "createdAt": "2025-01-09T09:30:00Z",
+      "updatedAt": "2025-01-09T09:30:00Z"
+    },
+    {
+      "name": "Forest Escape",
+      "location": "Istanbul, Turkey",
+      "description": "Nestled in the forest, this campsite offers a perfect retreat for nature lovers.",
+      "createdAt": "2025-01-08T09:00:00Z",
+      "updatedAt": "2025-01-08T09:00:00Z"
+    },
+    {
+      "name": "Lakefront Retreat",
+      "location": "Antalya, Turkey",
+      "description": "A serene lakeside campground offering various water activities.",
+      "createdAt": "2025-01-07T08:30:00Z",
+      "updatedAt": "2025-01-07T08:30:00Z"
+    },
+    {
+      "name": "Desert Oasis Camp",
+      "location": "Kapadokya, Turkey",
+      "description": "A desert-themed campsite that provides an escape from the city with amazing views.",
+      "createdAt": "2025-01-06T08:00:00Z",
+      "updatedAt": "2025-01-06T08:00:00Z"
+    },
+    {
+      "name": "Riverside Camping",
+      "location": "Marmaris, Turkey",
+      "description": "A riverside campsite perfect for kayaking and outdoor adventures.",
+      "createdAt": "2025-01-05T07:30:00Z",
+      "updatedAt": "2025-01-05T07:30:00Z"
+    },
+    {
+      "name": "Highland Campsite",
+      "location": "Trabzon, Turkey",
+      "description": "A highland campsite offering cooler temperatures and beautiful alpine views.",
+      "createdAt": "2025-01-04T07:00:00Z",
+      "updatedAt": "2025-01-04T07:00:00Z"
+    },
+    {
+      "name": "Adventure Base Camp",
+      "location": "Çeşme, Turkey",
+      "description": "A campground for adrenaline junkies, with rock climbing and mountain biking activities.",
+      "createdAt": "2025-01-03T06:30:00Z",
+      "updatedAt": "2025-01-03T06:30:00Z"
+    },
+    {
+      "name": "Coastal Campsite",
+      "location": "Süleymaniye, Turkey",
+      "description": "A coastal camping spot where you can enjoy beach activities and explore marine life.",
+      "createdAt": "2025-01-02T06:00:00Z",
+      "updatedAt": "2025-01-02T06:00:00Z"
+    },
+    {
+      "name": "Wilderness Haven",
+      "location": "Bursa, Turkey",
+      "description": "A remote wilderness campsite that offers a peaceful and isolated environment.",
+      "createdAt": "2025-01-01T05:30:00Z",
+      "updatedAt": "2025-01-01T05:30:00Z"
+    },
+    {
+      "name": "Eco-Friendly Campground",
+      "location": "Istanbul, Turkey",
+      "description": "A green campsite focused on sustainable practices and eco-friendly activities.",
+      "createdAt": "2024-12-31T05:00:00Z",
+      "updatedAt": "2024-12-31T05:00:00Z"
+    },
+    {
+      "name": "Stargazers’ Camp",
+      "location": "Izmir, Turkey",
+      "description": "A campsite perfect for stargazing and astrophotography.",
+      "createdAt": "2024-12-30T04:30:00Z",
+      "updatedAt": "2024-12-30T04:30:00Z"
+    },
+    {
+      "name": "Winter Wonderland Camp",
+      "location": "Erzurum, Turkey",
+      "description": "A winter wonderland campsite offering skiing and snowboarding activities.",
+      "createdAt": "2024-12-29T04:00:00Z",
+      "updatedAt": "2024-12-29T04:00:00Z"
+    },
+    {
+      "name": "Beachside Camping",
+      "location": "Çeşme, Turkey",
+      "description": "A beachside campsite with stunning sunsets and various water sports.",
+      "createdAt": "2024-12-28T03:30:00Z",
+      "updatedAt": "2024-12-28T03:30:00Z"
+    }
+  ]
+  

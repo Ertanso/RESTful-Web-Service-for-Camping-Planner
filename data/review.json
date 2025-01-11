@@ -1,0 +1,123 @@
+[
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a2",
+      "content": "Amazing campsite! The views were breathtaking and the facilities were top-notch.",
+      "rating": 5,
+      "campsite": "607bcd08f4f1a2b0f4cded23",
+      "createdAt": "2025-01-10T10:00:00Z",
+      "updatedAt": "2025-01-10T10:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a3",
+      "content": "The campsite was good, but a little too crowded for my liking. Could use more privacy.",
+      "rating": 3,
+      "campsite": "607bcd08f4f1a2b0f4cded24",
+      "createdAt": "2025-01-09T09:30:00Z",
+      "updatedAt": "2025-01-09T09:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a4",
+      "content": "Great experience! The staff was friendly and helpful, and the hiking trails were beautiful.",
+      "rating": 4,
+      "campsite": "607bcd08f4f1a2b0f4cded25",
+      "createdAt": "2025-01-08T09:00:00Z",
+      "updatedAt": "2025-01-08T09:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a5",
+      "content": "Had an amazing time! However, the bathroom facilities could use some improvement.",
+      "rating": 4,
+      "campsite": "607bcd08f4f1a2b0f4cded26",
+      "createdAt": "2025-01-07T08:30:00Z",
+      "updatedAt": "2025-01-07T08:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a6",
+      "content": "Good location but the campsite was a bit too noisy during the night. Could have been quieter.",
+      "rating": 3,
+      "campsite": "607bcd08f4f1a2b0f4cded27",
+      "createdAt": "2025-01-06T08:00:00Z",
+      "updatedAt": "2025-01-06T08:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a7",
+      "content": "A peaceful and beautiful spot! The stars at night were incredible. Highly recommend it.",
+      "rating": 5,
+      "campsite": "607bcd08f4f1a2b0f4cded28",
+      "createdAt": "2025-01-05T07:30:00Z",
+      "updatedAt": "2025-01-05T07:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a8",
+      "content": "It was a decent campsite, but I wish there had been more hiking options nearby.",
+      "rating": 3,
+      "campsite": "607bcd08f4f1a2b0f4cded29",
+      "createdAt": "2025-01-04T07:00:00Z",
+      "updatedAt": "2025-01-04T07:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1a9",
+      "content": "Not a fan of this campsite. It was too far from any major attractions, and the amenities were basic.",
+      "rating": 2,
+      "campsite": "607bcd08f4f1a2b0f4cded30",
+      "createdAt": "2025-01-03T06:30:00Z",
+      "updatedAt": "2025-01-03T06:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b0",
+      "content": "Perfect for a quick weekend getaway. Clean facilities and nice people.",
+      "rating": 4,
+      "campsite": "607bcd08f4f1a2b0f4cded31",
+      "createdAt": "2025-01-02T06:00:00Z",
+      "updatedAt": "2025-01-02T06:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b1",
+      "content": "Great for family camping! There were plenty of activities for the kids, and we had a wonderful time.",
+      "rating": 5,
+      "campsite": "607bcd08f4f1a2b0f4cded32",
+      "createdAt": "2025-01-01T05:30:00Z",
+      "updatedAt": "2025-01-01T05:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b2",
+      "content": "A bit overpriced for what it offers. The site was nice but not extraordinary.",
+      "rating": 3,
+      "campsite": "607bcd08f4f1a2b0f4cded33",
+      "createdAt": "2024-12-31T05:00:00Z",
+      "updatedAt": "2024-12-31T05:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b3",
+      "content": "One of the best camping experiences I’ve had! Everything was perfect.",
+      "rating": 5,
+      "campsite": "607bcd08f4f1a2b0f4cded34",
+      "createdAt": "2024-12-30T04:30:00Z",
+      "updatedAt": "2024-12-30T04:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b4",
+      "content": "Not ideal for long stays. The campsite was nice, but there was a lot of noise at night.",
+      "rating": 2,
+      "campsite": "607bcd08f4f1a2b0f4cded35",
+      "createdAt": "2024-12-29T04:00:00Z",
+      "updatedAt": "2024-12-29T04:00:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b5",
+      "content": "Fantastic location! Would definitely return. Loved the nearby lake.",
+      "rating": 5,
+      "campsite": "607bcd08f4f1a2b0f4cded36",
+      "createdAt": "2024-12-28T03:30:00Z",
+      "updatedAt": "2024-12-28T03:30:00Z"
+    },
+    {
+      "user": "60b8d7d0f9a2b0f4d8f1b1b6",
+      "content": "Great for a quick getaway, but lacks some essential amenities like hot water.",
+      "rating": 3,
+      "campsite": "607bcd08f4f1a2b0f4cded37",
+      "createdAt": "2024-12-27T03:00:00Z",
+      "updatedAt": "2024-12-27T03:00:00Z"
+    }
+  ]
+  

@@ -1,0 +1,123 @@
+[
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "hashedpassword1",
+      "favorites": ["607bcd08f4f1a2b0f4cded23", "607bcd08f4f1a2b0f4cded24"],
+      "createdAt": "2025-01-10T10:00:00Z",
+      "updatedAt": "2025-01-10T10:00:00Z"
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "password": "hashedpassword2",
+      "favorites": ["607bcd08f4f1a2b0f4cded25", "607bcd08f4f1a2b0f4cded26"],
+      "createdAt": "2025-01-09T09:30:00Z",
+      "updatedAt": "2025-01-09T09:30:00Z"
+    },
+    {
+      "name": "Charlie Davis",
+      "email": "charlie.davis@example.com",
+      "password": "hashedpassword3",
+      "favorites": ["607bcd08f4f1a2b0f4cded27", "607bcd08f4f1a2b0f4cded28"],
+      "createdAt": "2025-01-08T09:00:00Z",
+      "updatedAt": "2025-01-08T09:00:00Z"
+    },
+    {
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "password": "hashedpassword4",
+      "favorites": ["607bcd08f4f1a2b0f4cded29", "607bcd08f4f1a2b0f4cded30"],
+      "createdAt": "2025-01-07T08:30:00Z",
+      "updatedAt": "2025-01-07T08:30:00Z"
+    },
+    {
+      "name": "Emily Clark",
+      "email": "emily.clark@example.com",
+      "password": "hashedpassword5",
+      "favorites": ["607bcd08f4f1a2b0f4cded31", "607bcd08f4f1a2b0f4cded32"],
+      "createdAt": "2025-01-06T08:00:00Z",
+      "updatedAt": "2025-01-06T08:00:00Z"
+    },
+    {
+      "name": "Frank Miller",
+      "email": "frank.miller@example.com",
+      "password": "hashedpassword6",
+      "favorites": ["607bcd08f4f1a2b0f4cded33", "607bcd08f4f1a2b0f4cded34"],
+      "createdAt": "2025-01-05T07:30:00Z",
+      "updatedAt": "2025-01-05T07:30:00Z"
+    },
+    {
+      "name": "Grace Wilson",
+      "email": "grace.wilson@example.com",
+      "password": "hashedpassword7",
+      "favorites": ["607bcd08f4f1a2b0f4cded35", "607bcd08f4f1a2b0f4cded36"],
+      "createdAt": "2025-01-04T07:00:00Z",
+      "updatedAt": "2025-01-04T07:00:00Z"
+    },
+    {
+      "name": "Hannah Walker",
+      "email": "hannah.walker@example.com",
+      "password": "hashedpassword8",
+      "favorites": ["607bcd08f4f1a2b0f4cded37", "607bcd08f4f1a2b0f4cded38"],
+      "createdAt": "2025-01-03T06:30:00Z",
+      "updatedAt": "2025-01-03T06:30:00Z"
+    },
+    {
+      "name": "Ian Adams",
+      "email": "ian.adams@example.com",
+      "password": "hashedpassword9",
+      "favorites": ["607bcd08f4f1a2b0f4cded39", "607bcd08f4f1a2b0f4cded40"],
+      "createdAt": "2025-01-02T06:00:00Z",
+      "updatedAt": "2025-01-02T06:00:00Z"
+    },
+    {
+      "name": "Jack Taylor",
+      "email": "jack.taylor@example.com",
+      "password": "hashedpassword10",
+      "favorites": ["607bcd08f4f1a2b0f4cded41", "607bcd08f4f1a2b0f4cded42"],
+      "createdAt": "2025-01-01T05:30:00Z",
+      "updatedAt": "2025-01-01T05:30:00Z"
+    },
+    {
+      "name": "Karen Brown",
+      "email": "karen.brown@example.com",
+      "password": "hashedpassword11",
+      "favorites": ["607bcd08f4f1a2b0f4cded43", "607bcd08f4f1a2b0f4cded44"],
+      "createdAt": "2024-12-31T05:00:00Z",
+      "updatedAt": "2024-12-31T05:00:00Z"
+    },
+    {
+      "name": "Leo Harris",
+      "email": "leo.harris@example.com",
+      "password": "hashedpassword12",
+      "favorites": ["607bcd08f4f1a2b0f4cded45", "607bcd08f4f1a2b0f4cded46"],
+      "createdAt": "2024-12-30T04:30:00Z",
+      "updatedAt": "2024-12-30T04:30:00Z"
+    },
+    {
+      "name": "Mia Thompson",
+      "email": "mia.thompson@example.com",
+      "password": "hashedpassword13",
+      "favorites": ["607bcd08f4f1a2b0f4cded47", "607bcd08f4f1a2b0f4cded48"],
+      "createdAt": "2024-12-29T04:00:00Z",
+      "updatedAt": "2024-12-29T04:00:00Z"
+    },
+    {
+      "name": "Nina Garcia",
+      "email": "nina.garcia@example.com",
+      "password": "hashedpassword14",
+      "favorites": ["607bcd08f4f1a2b0f4cded49", "607bcd08f4f1a2b0f4cded50"],
+      "createdAt": "2024-12-28T03:30:00Z",
+      "updatedAt": "2024-12-28T03:30:00Z"
+    },
+    {
+      "name": "Oscar Martinez",
+      "email": "oscar.martinez@example.com",
+      "password": "hashedpassword15",
+      "favorites": ["607bcd08f4f1a2b0f4cded51", "607bcd08f4f1a2b0f4cded52"],
+      "createdAt": "2024-12-27T03:00:00Z",
+      "updatedAt": "2024-12-27T03:00:00Z"
+    }
+  ]
+  

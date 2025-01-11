@@ -1,25 +1,18 @@
 const Accommodation = require('../models/accommodationModel');
 
+
 // Tüm konaklama önerilerini listele
 const listAccommodations = async (req, res) => {
     try {
         
-        const { campgroundId } = req.query;
-        const filter = campgroundId ? { associatedCampground: campgroundId } : {};
 
-        const accommodations = await Accommodation.find(filter).populate('associatedCampground', 'name location description price');
-        
-        if (!activities.length) {
-            return res.status(404).json({ message: 'Accommodations is not found.' });
-        }
-
+        const accommodations = await Accommodation.find();
         res.status(200).json(accommodations);
        
     } catch (error) {
         res.status(500).json({ message: 'An error occurred while retrieving accommodation recommendations', error: error.message });
     }
 };
-
 
 
 // Belirli bir konaklama detayını getir
@@ -35,6 +28,10 @@ const getAccommodationDetails = async (req, res) => {
         res.status(500).json({ message: 'Bir hata oluştu', error: error.message });
     }
 };
+
+
+
+const mongoose = require('mongoose');
 const addAccommodation = async (req, res) => {
     const { name, location, description, price } = req.body;
     try {

@@ -65,31 +65,10 @@ const deleteActivity = async (req, res) => {
 
 
 // Etkinlikleri listeleme
-// const listActivities = async (req, res) => {
-//     try {
-//         const { campgroundId } = req.query;
-//         const filter = campgroundId ? { associatedCampground: campgroundId } : {};
-
-//         // Filtreye göre etkinlikleri getir ve associatedCampground detaylarını dahil et
-//         const activities = await Activity.find(filter).populate('associatedCampground', 'name location description');
-
-//         if (!activities.length) {
-//             return res.status(404).json({ message: 'Etkinlik bulunamadı.' });
-//         }
-
-//         res.status(200).json(activities);
-//     } catch (error) {
-//         res.status(500).json({ message: 'Bir hata oluştu.', error: error.message });
-//     }
-// };
-const mongoose = require('mongoose');
-
 const listActivities = async (req, res) => {
     try {
-        const { campgroundId } = req.query;
-
-        // campgroundId'nin ObjectId formatına dönüştürülmesi
-        const filter = campgroundId ? { associatedCampground: mongoose.Types.ObjectId(campgroundId) } : {};
+        const { campgroundId } = req.params;
+        const filter = campgroundId ? { associatedCampground: campgroundId } : {};
 
         // Filtreye göre etkinlikleri getir ve associatedCampground detaylarını dahil et
         const activities = await Activity.find(filter).populate('associatedCampground', 'name location description');
@@ -103,6 +82,7 @@ const listActivities = async (req, res) => {
         res.status(500).json({ message: 'Bir hata oluştu.', error: error.message });
     }
 };
+
 
 
 

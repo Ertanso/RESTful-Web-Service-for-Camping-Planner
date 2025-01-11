@@ -14,13 +14,13 @@ router.delete('/:id', protect, deleteActivity);
 
 const { listActivities } = require('../controllers/activityController');
 
-// Aktiviteleri listeleme
-router.get('/ ', listActivities);
+// // Aktiviteleri listeleme
+// router.get('/ ', listActivities);
 
-const { getActivityDetails } = require('../controllers/activityController');
+// const { getActivityDetails } = require('../controllers/activityController');
 
-// Belirli bir aktivitenin detaylarını getir
-router.get('/:id', getActivityDetails);
+// // Belirli bir aktivitenin detaylarını getir
+// router.get('/:id', getActivityDetails);
 
 
 module.exports = router; 

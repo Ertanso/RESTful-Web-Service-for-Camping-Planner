@@ -1,9 +1,9 @@
-// const express = require('express');
-// const router = express.Router();
-// const { listCampingHistory } = require('../controllers/campingHistoryController');
-// const protect = require('../middleware/authMiddleware'); // Kullanıcı kimliğini doğrulayan middleware
+const express = require('express');
+const router = express.Router();
+const { listCampingHistory } = require('../controllers/campingHistoryController');
+const protect = require('../middleware/authMiddleware'); // Kullanıcı kimliğini doğrulayan middleware
 
-// // Kullanıcının kamp geçmişini listele
-// router.get('/', protect, listCampingHistory);
+// Kullanıcının kamp geçmişini listele
+router.get('/', protect, listCampingHistory);
 
-// module.exports = router;
+module.exports = router;

@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Lakeview Trail",
+      "description": "A scenic route around the lake with beautiful views.",
+      "startingPoint": "Lake Entrance",
+      "endingPoint": "63f5dcd827f1a93e98abc123",
+      "createdAt": "2025-01-10T10:15:00Z"
+    },
+    {
+      "name": "Mountain Path",
+      "description": "A challenging climb up the mountain for experienced hikers.",
+      "startingPoint": "Base Camp",
+      "endingPoint": "63f5dcd827f1a93e98abc124",
+      "createdAt": "2025-01-10T11:30:00Z"
+    },
+    {
+      "name": "Forest Walk",
+      "description": "An easy trail through the dense forest, ideal for families.",
+      "startingPoint": "Forest Gate",
+      "endingPoint": "63f5dcd827f1a93e98abc125",
+      "createdAt": "2025-01-10T12:45:00Z"
+    },
+    {
+      "name": "Riverbank Trek",
+      "description": "A peaceful route along the riverbank with picnic spots.",
+      "startingPoint": "Riverside Entrance",
+      "endingPoint": "63f5dcd827f1a93e98abc126",
+      "createdAt": "2025-01-10T13:00:00Z"
+    },
+    {
+      "name": "Desert Crossing",
+      "description": "A unique experience crossing a small desert region.",
+      "startingPoint": "Desert Edge",
+      "endingPoint": "63f5dcd827f1a93e98abc127",
+      "createdAt": "2025-01-10T14:20:00Z"
+    },
+    {
+      "name": "Valley Trail",
+      "description": "A serene trail through a picturesque valley.",
+      "startingPoint": "Valley Entrance",
+      "endingPoint": "63f5dcd827f1a93e98abc128",
+      "createdAt": "2025-01-10T15:40:00Z"
+    }
+  ]
+  

@@ -44,10 +44,10 @@ app.use('/api/route-recommendations', routeRoutes);
 app.use('/api/camping-equipment', equipmentRoutes);
 app.use('/api', routeRoutes);
 // app.use('/api/camping-history', campingHistoryRoutes);
-app.use('/api/activities', activityRoutes);
-
 const accommodationRoutes = require('./routes/accommodationRoutes');
 app.use('/api/accommodations', accommodationRoutes);
+
+
 
 const restaurantRoutes = require('./routes/restaurantRoutes');
 app.use('/api/restaurants', restaurantRoutes);
@@ -55,6 +55,8 @@ app.use('/api/restaurants', restaurantRoutes);
 const commentRoutes = require('./routes/commentRoutes');
 app.use('/api/comments', commentRoutes);
 
+// const { listActivities } = require('./controllers/activityController');
+// app.get('/activities/:campgroundId', listActivities);
 
 
 app.get('/',(req,res)=>{

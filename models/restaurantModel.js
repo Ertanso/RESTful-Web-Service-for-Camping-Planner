@@ -5,6 +5,7 @@ const restaurantSchema = new mongoose.Schema({
     location: { type: String, required: true },
     cuisine: { type: String, required: true }, // Mutfağın türü (örneğin: İtalyan, Türk)
     rating: { type: Number, default: 0 }, // Ortalama puan
+    camping: { type: String, required: true },
     createdAt: { type: Date, default: Date.now },
 });
 

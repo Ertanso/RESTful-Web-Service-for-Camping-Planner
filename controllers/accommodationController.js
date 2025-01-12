@@ -1,21 +1,31 @@
 const Accommodation = require('../models/accommodationModel');
 
 
-// Tüm konaklama önerilerini listele
-const listAccommodations = async (req, res) => {
-    try {
+// // Tüm konaklama önerilerini listele
+// const listAccommodations = async (req, res) => {
+//     try {
         
 
-        const accommodations = await Accommodation.find();
-        res.status(200).json(accommodations);
+//         const accommodations = await Accommodation.find();
+//         res.status(200).json(accommodations);
        
+//     } catch (error) {
+//         res.status(500).json({ message: 'An error occurred while retrieving accommodation recommendations', error: error.message });
+//     }
+// };
+const listAccommodations = async (req, res) => {
+    try {
+       
+        const accommodations = await Accommodation.find({ campId });
+        res.status(200).json(accommodations);
+
     } catch (error) {
         res.status(500).json({ message: 'An error occurred while retrieving accommodation recommendations', error: error.message });
     }
 };
 
-
-// Belirli bir konaklama detayını getir
+const mongoose = require('mongoose');
+//Belirli bir konaklama detayını getir
 const getAccommodationDetails = async (req, res) => {
     const { id } = req.params;
     try {
@@ -31,38 +41,11 @@ const getAccommodationDetails = async (req, res) => {
 
 
 
-const mongoose = require('mongoose');
-const addAccommodation = async (req, res) => {
-    const { name, location, description, price } = req.body;
-    try {
-        const newAccommodation = new Accommodation({ name, location, description, price });
-        await newAccommodation.save();
-        res.status(201).json(newAccommodation); // 201 Created
-    } catch (error) {
-        res.status(500).json({ message: 'Konaklama eklenirken bir hata oluştu', error: error.message });
-    }
-};
 
-// Konaklama güncelle
-const updateAccommodation = async (req, res) => {
-    const { id } = req.params;
-    const updates = req.body; // Güncellenecek alanlar
-    try {
-        const updatedAccommodation = await Accommodation.findByIdAndUpdate(id, updates, { new: true });
-        if (!updatedAccommodation) {
-            return res.status(404).json({ message: 'Konaklama bulunamadı.' });
-        }
-        res.status(200).json(updatedAccommodation);
-    } catch (error) {
-        res.status(500).json({ message: 'Konaklama güncellenirken bir hata oluştu', error: error.message });
-    }
-};
 module.exports = {
-    listAccommodations,
-    getAccommodationDetails,
-    addAccommodation,
-    updateAccommodation,
    
+    listAccommodations,
+    getAccommodationDetails,   
 };
 
 

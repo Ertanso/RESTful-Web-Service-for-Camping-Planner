@@ -2,17 +2,15 @@ const Restaurant = require('../models/restaurantModel');
 
 // Tüm restoran önerilerini listele
 const listRestaurants = async (req, res) => {
+    const { camping } = req.query;
     try {
-        const restaurants = await Restaurant.find();
+        const restaurants = await Restaurant.find({camping});
         res.status(200).json(restaurants);
     } catch (error) {
         res.status(500).json({ message: 'Restoran önerileri alınırken bir hata oluştu', error: error.message });
     }
 };
 
-module.exports = {
-    listRestaurants,
-};
 
 // Belirli bir restoran detayını getir
 const getRestaurantDetails = async (req, res) => {

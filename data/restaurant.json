@@ -1,108 +1,90 @@
 [
-    {
-      "name": "Bella Italia",
-      "location": "Rome, Italy",
-      "cuisine": "Italian",
-      "rating": 4.7,
-      "createdAt": "2025-01-10T10:00:00Z"
-    },
-    {
-      "name": "Saray Sofrası",
-      "location": "Istanbul, Turkey",
-      "cuisine": "Turkish",
+  {
+      "name": "Seaside Diner",
+      "location": "Bodrum, Turkey",
+      "cuisine": "Seafood",
       "rating": 4.5,
-      "createdAt": "2025-01-09T09:30:00Z"
-    },
-    {
-      "name": "Sushi Express",
-      "location": "Tokyo, Japan",
-      "cuisine": "Japanese",
+      "campingId": "67826a38b26e2c06e9b35025",
+      "createdAt": "2025-01-11T10:00:00Z"
+  },
+  {
+      "name": "Mountain Grill",
+      "location": "Fethiye, Turkey",
+      "cuisine": "Turkish",
       "rating": 4.8,
-      "createdAt": "2025-01-08T09:00:00Z"
-    },
-    {
-      "name": "Le Petit Bistro",
-      "location": "Paris, France",
-      "cuisine": "French",
-      "rating": 4.6,
-      "createdAt": "2025-01-07T08:30:00Z"
-    },
-    {
-      "name": "The Spice House",
-      "location": "New Delhi, India",
-      "cuisine": "Indian",
+      "campingId": "67826a38b26e2c06e9b35026",
+      "createdAt": "2025-01-11T10:30:00Z"
+  },
+  {
+      "name": "Forest Feast",
+      "location": "Istanbul, Turkey",
+      "cuisine": "International",
       "rating": 4.3,
-      "createdAt": "2025-01-06T08:00:00Z"
-    },
-    {
-      "name": "El Camino Real",
-      "location": "Mexico City, Mexico",
-      "cuisine": "Mexican",
-      "rating": 4.4,
-      "createdAt": "2025-01-05T07:30:00Z"
-    },
-    {
-      "name": "The Green Grill",
-      "location": "Los Angeles, USA",
-      "cuisine": "American",
-      "rating": 4.2,
-      "createdAt": "2025-01-04T07:00:00Z"
-    },
-    {
-      "name": "Pasta Fresca",
-      "location": "Milan, Italy",
-      "cuisine": "Italian",
-      "rating": 4.9,
-      "createdAt": "2025-01-03T06:30:00Z"
-    },
-    {
-      "name": "Taco Loco",
-      "location": "Austin, USA",
-      "cuisine": "Mexican",
-      "rating": 4.1,
-      "createdAt": "2025-01-02T06:00:00Z"
-    },
-    {
-      "name": "Biryani Bhavan",
-      "location": "Chennai, India",
-      "cuisine": "Indian",
-      "rating": 4.0,
-      "createdAt": "2025-01-01T05:30:00Z"
-    },
-    {
-      "name": "La Trattoria",
-      "location": "Florence, Italy",
-      "cuisine": "Italian",
-      "rating": 4.6,
-      "createdAt": "2024-12-31T05:00:00Z"
-    },
-    {
-      "name": "Ramen Samurai",
-      "location": "Kyoto, Japan",
-      "cuisine": "Japanese",
+      "campingId": "67826a38b26e2c06e9b35027",
+      "createdAt": "2025-01-11T11:00:00Z"
+  },
+  {
+      "name": "Desert Delights",
+      "location": "Kapadokya, Turkey",
+      "cuisine": "Middle Eastern",
       "rating": 4.7,
-      "createdAt": "2024-12-30T04:30:00Z"
-    },
-    {
-      "name": "The Royal Feast",
-      "location": "London, UK",
-      "cuisine": "British",
-      "rating": 4.3,
-      "createdAt": "2024-12-29T04:00:00Z"
-    },
-    {
-      "name": "Le Cinq",
-      "location": "Paris, France",
-      "cuisine": "French",
-      "rating": 5.0,
-      "createdAt": "2024-12-28T03:30:00Z"
-    },
-    {
-      "name": "The Veggie Bowl",
-      "location": "Portland, USA",
+      "campingId": "67826a38b26e2c06e9b35029",
+      "createdAt": "2025-01-11T11:30:00Z"
+  },
+  {
+      "name": "Riverside Cafe",
+      "location": "Marmaris, Turkey",
+      "cuisine": "Italian",
+      "rating": 4.2,
+      "campingId": "67826a38b26e2c06e9b3502a",
+      "createdAt": "2025-01-11T12:00:00Z"
+  },
+  {
+      "name": "Alpine Bistro",
+      "location": "Trabzon, Turkey",
+      "cuisine": "Local",
+      "rating": 4.6,
+      "campingId": "67826a38b26e2c06e9b3502b",
+      "createdAt": "2025-01-11T12:30:00Z"
+  },
+  {
+      "name": "Coastal Eats",
+      "location": "Çeşme, Turkey",
+      "cuisine": "Seafood",
+      "rating": 4.9,
+      "campingId": "67826a38b26e2c06e9b3502c",
+      "createdAt": "2025-01-11T13:00:00Z"
+  },
+  {
+      "name": "Süleymaniye Kitchen",
+      "location": "Süleymaniye, Turkey",
+      "cuisine": "Turkish",
+      "rating": 4.4,
+      "campingId": "67826a38b26e2c06e9b3502d",
+      "createdAt": "2025-01-11T13:30:00Z"
+  },
+  {
+      "name": "Lakeside Meals",
+      "location": "Bursa, Turkey",
       "cuisine": "Vegetarian",
+      "rating": 4.5,
+      "campingId": "67826a38b26e2c06e9b3502e",
+      "createdAt": "2025-01-11T14:00:00Z"
+  },
+  {
+      "name": "Golden Sands Restaurant",
+      "location": "Bodrum, Turkey",
+      "cuisine": "Mediterranean",
       "rating": 4.8,
-      "createdAt": "2024-12-27T03:00:00Z"
-    }
-  ]
-  
+      "campingId": "67826a38b26e2c06e9b35025",
+      "createdAt": "2025-01-11T14:30:00Z"
+  },
+  {
+      "name": "Urban Bites",
+      "location": "Istanbul, Turkey",
+      "cuisine": "Fusion",
+      "rating": 4.6,
+      "campingId": "67826a38b26e2c06e9b35027",
+      "createdAt": "2025-01-11T15:00:00Z"
+  }
+]
